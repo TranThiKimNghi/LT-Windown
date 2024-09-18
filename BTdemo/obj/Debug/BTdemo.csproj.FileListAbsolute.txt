@@ -1,0 +1,10 @@
+C:\Users\Kim Nghi\source\repos\BTdemo\bin\Debug\BTdemo.exe.config
+C:\Users\Kim Nghi\source\repos\BTdemo\bin\Debug\BTdemo.exe
+C:\Users\Kim Nghi\source\repos\BTdemo\bin\Debug\BTdemo.pdb
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.Form1.resources
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.Properties.Resources.resources
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.csproj.GenerateResource.cache
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.exe
+C:\Users\Kim Nghi\source\repos\BTdemo\obj\Debug\BTdemo.pdb
