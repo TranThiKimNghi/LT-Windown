@@ -1,0 +1,11 @@
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\bin\Debug\QliNhanVien.exe.config
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\bin\Debug\QliNhanVien.exe
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\bin\Debug\QliNhanVien.pdb
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.Form1.resources
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.Form2.resources
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.Properties.Resources.resources
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.csproj.GenerateResource.cache
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.exe
+C:\Users\Kim Nghi\source\repos\KimNghi\QliNhanVien\obj\Debug\QliNhanVien.pdb
