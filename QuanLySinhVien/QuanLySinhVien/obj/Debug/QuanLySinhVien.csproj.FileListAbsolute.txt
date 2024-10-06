@@ -1,0 +1,15 @@
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.dll
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.xml
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.QlySinhVien.resources
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySi.3CF0D20D.Up2Date
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Tin\Kim Nghi\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
